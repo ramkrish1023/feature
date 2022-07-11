@@ -1,0 +1,7 @@
+ParentManagementGroup    = "tsnp-landingzones-corp"
+subscription_dmz         = "73330a6e-7a8f-4e88-8727-d80940161c35"
+subscription_private     = "584c195a-d2fb-4c33-a0e4-c9dce17f2ff6"
+Involtadmz_Name          = "InvoltaDMZ"
+Involtadmz_id            = "tsnp-landingzones-np-Involtadmz"
+Involtaprivate_Name      = "InvoltaPrivate"
+Involtaprivate_id        = "tsnp-landingzones-np-Involtaprivate"
